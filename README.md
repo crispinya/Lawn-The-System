@@ -8,13 +8,13 @@ Lawn The System is an android game programmed in C# using Unity.
 * [Technologies](#technologies) 
 * [Setup](#setup)
 * [Features](#features) 
+* [Screenshots and Gameplay](#screenshots-and-gameplay) 
 * [Status](#status)
 * [Inspiration](#inspiration) TODO
 * [Contact](#inspiration)
 
 ## General information
 
-This project
 
 ### Personal note
 
@@ -29,7 +29,7 @@ Project created using:
 	
 ## Setup
 To try the game (assuming you have an android phone or simulator) you should follow the next steps:
-1. Download the apk (LawnTheSystem.apk)
+1. Download the apk (LTS_v2.apk)
 2. Install it in your phone/simulator
 3. Play it!
 
@@ -64,10 +64,21 @@ To use/edit this project you should follow the next steps:
  * [ ] Create scoreboard and save max punctuation and coins between games.
  * [ ] Implement menu buttons.
 
-## Inspiration
+## Screenshots and Gameplay
+
+### Panels:
+
+![paneles](https://user-images.githubusercontent.com/43574088/91739232-e875e280-ebb1-11ea-883c-3b88c5777bb4.png)
+### Game:
+
+![screenshots](https://user-images.githubusercontent.com/43574088/91738660-13136b80-ebb1-11ea-8a09-35d8beadee86.png)
+
+
 
 ## Status
 This project is **in progress**, as it is still being used as a learning tool by its creator.
+
+## Inspiration
 
 ## Contact
 Created by [Cristina Piña Miguelsanz](https://www.linkedin.com/in/cristina-pina/) - feel free to contact me!
