@@ -10,7 +10,7 @@ Lawn The System is an android game programmed in C# using Unity.
 * [Features](#features) 
 * [Screenshots and Gameplay](#screenshots-and-gameplay) 
 * [Status](#status)
-* [Inspiration](#inspiration) TODO
+* [Inspiration](#inspiration)
 * [Contact](#inspiration)
 
 ## General information
@@ -79,6 +79,12 @@ To use/edit this project you should follow the next steps:
 This project is **in progress**, as it is still being used as a learning tool by its creator.
 
 ## Inspiration
+
+I got initially inspired to create this game while playing the [Shrinking Planet game](http://bit.ly/2qbDPfe) created by the youtuber [Brackeys](https://www.youtube.com/c/Brackeys/featured).
+
+The idea of using low-poly design was inspired in the game [Crossy Road by Hipster Whale](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=es). I liked the look of the design and finally decided to implement it seeing that there were a lot of free low-poly object assets at the unity Asset Store that could I could use in my game (without having to deal with the drawing and creation of 3d objects myself). The list of used assets can be found inside the "Assets" folder, in the "list_of_used_Assets" file.
+
+The later idea of creating random planets and the possibility of traveling between them was based on my love for space (and also by the desire of challenging myself even more).
 
 ## Contact
 Created by [Cristina Piña Miguelsanz](https://www.linkedin.com/in/cristina-pina/) - feel free to contact me!
