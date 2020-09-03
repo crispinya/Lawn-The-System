@@ -3,7 +3,7 @@
 Lawn The System is an android game programmed in C# using Unity. 
 
 ## Table of contents
-* [General information](#general-information)  TODO
+* [General information](#general-information)
 	* [Personal note](#personal-note) 
 * [Technologies](#technologies) 
 * [Setup](#setup)
@@ -14,6 +14,10 @@ Lawn The System is an android game programmed in C# using Unity.
 * [Contact](#inspiration)
 
 ## General information
+
+Lawn The System is an android game created using Unity. In the game, you play as "Fran" a friendly turtle that gets her energy from eating grass. The objective of the game is to play as long as possible, trying to not run "out of grass", while also avoiding the meteors. Fran can move on the planet and travel between planets (clicking on them), collect coins (red leaves), and powerups (green mushrooms, which give live and red ones, which end the game).
+
+Each game is different, as the number and characteristics of planets are generated randomly each time.
 
 
 ### Personal note
